@@ -1,0 +1,30 @@
+_repo: The-Boy-Scouts-of-Lenox--Or-The-Hike-Over-Big-Bear-Mountain_21842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21842-h/images/coverx.jpg
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Hiking -- Juvenile fiction'
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Thieves -- Juvenile fiction'
+title: The Boy Scouts of Lenox; Or, The Hike Over Big Bear Mountain
+url: http://www.gutenberg.org/ebooks/21842
